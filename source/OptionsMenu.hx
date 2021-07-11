@@ -31,8 +31,8 @@ class OptionsMenu extends MusicBeatState
 	var viewer:FlxSprite;
 
 	var notetypes = [
-		"NOTE", "TRIANGLE", "CIRCLE", "BEATSABER", "STEPMANIA", "ETTERNA", "SPOOKY", "VAPORWAVE", "HELLBEATS", "WAFELS3", "NEO", "SOFT", "TRANSPARENT",
-		"SPLASH"
+		"NOTE", "TRIANGLE", "CIRCLE", "BEATSABER", "STEPMANIA", "BAR", "SPOOKY", "VAPORWAVE", "HELLBEATS", "WAFELS3", "NEO", "SOFT", "TRANSPARENT",
+		"SPLASH", "CEL"
 	];
 	var noteselection = 69; // funny number
 
