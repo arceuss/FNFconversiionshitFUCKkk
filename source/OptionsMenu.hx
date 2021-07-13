@@ -32,7 +32,7 @@ class OptionsMenu extends MusicBeatState
 
 	var notetypes = [
 		"NOTE", "TRIANGLE", "CIRCLE", "BEATSABER", "STEPMANIA", "BAR", "SPOOKY", "VAPORWAVE", "HELLBEATS", "WAFELS3", "NEO", "SOFT", "TRANSPARENT",
-		"SPLASH", "CEL"
+		"SPLASH", "CEL", "SM39Note"
 	];
 	var noteselection = 69; // funny number
 
